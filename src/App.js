@@ -14,7 +14,7 @@ function App() {
         </ul>
       </nav>
       <div className='main-titel'>
-      <a href='#Hello'>hrllo</a>
+      <a href='#Hello'>MILENIO</a>
       </div>
       <div class="container">
 
