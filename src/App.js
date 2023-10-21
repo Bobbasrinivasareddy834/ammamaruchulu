@@ -14,7 +14,7 @@ function App() {
         </ul>
       </nav>
       <div className='main-titel'>
-      <a href='#Hello'>ABCD</a>
+      <a href='#Hello'>MILINIO</a>
       </div>
       <div class="container">
 
@@ -88,19 +88,19 @@ function App() {
               <div className="form-container">
         <form className="outside">
           <div>
-            <label htmlFor="name" placeholder='First Name'>:</label>
+            <label htmlFor="name">First Name:</label>
             <input type="text" id="name" name="name" />
           </div>
           <div>
-            <label htmlFor="number" placeholder='Last Name'></label>
+            <label htmlFor="number">Last Name:</label>
             <input type="text" id="number" name="number" />
           </div>
           <div>
-            <label htmlFor="email" placeholder='Email'></label>
+            <label htmlFor="email">Email:</label>
             <input type="email" id="email" name="email" />
           </div>
           <div>
-            <label htmlFor="email" placeholder='999 999 999 9' ></label>
+            <label htmlFor="email">Phone Number:</label>
             <input type="number" id="email" name="email" />
           </div>
           <button className='submit' type="submit">Submit</button>
