@@ -88,19 +88,19 @@ function App() {
               <div className="form-container">
         <form className="outside">
           <div>
-            <label htmlFor="name">Name:</label>
+            <label htmlFor="name" placeholder='First Name'>:</label>
             <input type="text" id="name" name="name" />
           </div>
           <div>
-            <label htmlFor="number">Number:</label>
+            <label htmlFor="number" placeholder='Last Name'></label>
             <input type="text" id="number" name="number" />
           </div>
           <div>
-            <label htmlFor="email">Email:</label>
+            <label htmlFor="email" placeholder='Email'></label>
             <input type="email" id="email" name="email" />
           </div>
           <div>
-            <label htmlFor="email">Number:</label>
+            <label htmlFor="email" placeholder='999 999 999 9' ></label>
             <input type="number" id="email" name="email" />
           </div>
           <button className='submit' type="submit">Submit</button>
