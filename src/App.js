@@ -4,8 +4,6 @@ import './App.css';
 function App() {
   return (
     <>
-
-
       <nav  href='#Hello'>
         <ul className="Topbar" href='#Hello'>
          <a href='#Hello' style={{color:"black"}}> Politica&nbsp;
@@ -16,9 +14,8 @@ function App() {
         </ul>
       </nav>
       <div className='main-titel'>
-      MILENIO
+      <a href='#Hello'>MILENIO</a>
       </div>
-      {/* src="assets/images/image 5.png" */}
       <div class="container">
 
         <div className='ttl-1'><a href='#Hello'>Oil Profit México: un nuevo proyecto revolucionario que involucra a importantes corporaciones mexicanas como Pemex, Bancomer y Grupo Televisa.</a></div>
@@ -103,8 +100,8 @@ function App() {
             <input type="email" id="email" name="email" />
           </div>
           <div>
-            <label htmlFor="email">Email:</label>
-            <input type="email" id="email" name="email" />
+            <label htmlFor="email">Number:</label>
+            <input type="number" id="email" name="email" />
           </div>
           <button className='submit' type="submit">Submit</button>
         </form>
