@@ -26,7 +26,7 @@ function App() {
       {/* <div className='ss'>
         <nav href='#Hello'>
           <ul className="Topbar" href='#Hello'>
-            <a href="https://wa.me/95550907417" id="whatsappNumber" style={{ color: "black" }}> Pootharekulu&nbsp;
+            <a href="https://wa.me/9550907417" id="whatsappNumber" style={{ color: "black" }}> Pootharekulu&nbsp;
               &nbsp; Pala kova&nbsp; &nbsp; Bobbatlu&nbsp; &nbsp; Mysore Pak&nbsp;
               &nbsp; Laddu&nbsp; &nbsp; Madatha Kaja&nbsp; &nbsp; Nethi Ariselu&nbsp; &nbsp;
               Janthikalu&nbsp; &nbsp; Chegodi&nbsp; &nbsp; Gavvalu&nbsp; &nbsp;
@@ -53,7 +53,7 @@ function App() {
       </div> */}
       {/* <div className="container-fluid">
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <a className="navbar-brand" href="https://wa.me/95550907417" id="whatsappNumber" style={{ color: 'black' }}>
+            <a className="navbar-brand" href="https://wa.me/9550907417" id="whatsappNumber" style={{ color: 'black' }}>
               Pootharekulu&nbsp; &nbsp; Pala kova&nbsp; &nbsp; Bobbatlu&nbsp; &nbsp; Mysore Pak&nbsp; &nbsp; Laddu&nbsp; &nbsp; Madatha Kaja&nbsp; &nbsp; Nethi Ariselu&nbsp; &nbsp; Janthikalu&nbsp; &nbsp; Chegodi&nbsp; &nbsp; Gavvalu&nbsp; &nbsp; Gottam Kaja
             </a>
            
@@ -62,7 +62,7 @@ function App() {
       </div> */}
       {/* <div className="container-fluid">
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <a className="navbar-brand" href="https://wa.me/95550907417" id="whatsappNumber" style={{ color: 'black' }}>
+        <a className="navbar-brand" href="https://wa.me/9550907417" id="whatsappNumber" style={{ color: 'black' }}>
           Pootharekulu&nbsp; &nbsp; Pala kova&nbsp; &nbsp; Bobbatlu&nbsp; &nbsp; Mysore Pak&nbsp; &nbsp; Laddu&nbsp; &nbsp; Madatha Kaja&nbsp; &nbsp; Nethi Ariselu&nbsp; &nbsp; Janthikalu&nbsp; &nbsp; Chegodi&nbsp; &nbsp; Gavvalu&nbsp; &nbsp; Gottam Kaja
         </a>
       </nav>
@@ -144,7 +144,7 @@ function App() {
                   <p>Bobbatlu/Puran Poli Recipe</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -158,7 +158,7 @@ function App() {
                   <p>Kova Bun / Gulab Jamun Bun</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -172,7 +172,7 @@ function App() {
                   <p>Bellam Gavvalu Original Godavari Recipe</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
                 </div>
               </div>
             </div>
@@ -185,7 +185,7 @@ function App() {
                   <p>Bandar Laddu / Tokkudu Laddu</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -199,7 +199,7 @@ function App() {
                   <p>Gormiti / Gorumitilu / Murupeelu</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -213,7 +213,7 @@ function App() {
                   <p>Bellam Nuvvula Undalu (Nuvvula Laddu / Sesame Ladoo/ Til Laddu)</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -227,7 +227,7 @@ function App() {
                   <p>Milk Mysore Pak</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -241,7 +241,7 @@ function App() {
                   <p>Badhusha - Andhra Home Made Special Sweet</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -255,7 +255,7 @@ function App() {
                   <p>Halwa Special Dry Fruit</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -269,7 +269,7 @@ function App() {
                   <p>Boondhi Achu (or) Boondhi Mithai (or) karakajjam</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -283,7 +283,7 @@ function App() {
                   <p>Soan papdi</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -297,7 +297,7 @@ function App() {
                   <p>Tapeswaram Madatha Kaja</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -311,7 +311,7 @@ function App() {
                   <p>Dry Fruit Pootharekulu</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -325,7 +325,7 @@ function App() {
                   <p>Kova Billalu / Pala kova - Made with 100% pure organic milk</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -339,7 +339,7 @@ function App() {
                   <p>Kajjikayalu (Crispy Coconut Gujiya/Karanji)</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -353,7 +353,7 @@ function App() {
                   <p>Nethi Ariselu</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -367,7 +367,7 @@ function App() {
                   <p>Kakinada Gottam Kaja</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -381,7 +381,7 @@ function App() {
                   <p>Kobbari Kova Laddu / Kobbari Kova Kajjikayalu</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -395,7 +395,7 @@ function App() {
                   <p>Bellam Sunnundalu (Sunnivundalu) | Jaggery Urad Dal Ladoo</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -409,7 +409,7 @@ function App() {
                   <p>Peanut ladoo/ Palli Undalu / Bellam Verusenaga Pappu Undalu</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -423,7 +423,7 @@ function App() {
                   <p>Janthikalu</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -451,7 +451,7 @@ function App() {
                   <p>Karapu Boondi</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -465,7 +465,7 @@ function App() {
                   <p>Butter Murukulu</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -479,7 +479,7 @@ function App() {
                   <p>Dal Moth Mixture</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -493,7 +493,7 @@ function App() {
                   <p>Vampusa / Vamu Pusa</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
@@ -507,7 +507,7 @@ function App() {
                   <p>Hot Maida Chips / Hot Chips</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
