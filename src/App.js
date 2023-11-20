@@ -437,7 +437,7 @@ function App() {
                   <p>Special Pappu Chegodi / Narayana lanka Pappu Chegodilu</p>
                 </div>
                 <div className='CardTitel'>
-                  <a href="https://wa.me/95550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
+                  <a href="https://wa.me/9550907417" id="whatsappNumber" class="btn btn-success px-5" >Order</a>
 
                 </div>
               </div>
